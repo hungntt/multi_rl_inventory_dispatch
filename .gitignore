@@ -1,0 +1,21 @@
+/examples/model/
+.idea
+/examples/Step4a--Multi-Echelon--RL - ENV-NetworkManagement.ipynb
+/examples/Step4c--Multi-Echelon--RL - ENV-SupplyChainEnv-v0-CBC.ipynb
+/examples/Step4d--Multi-Echelon--RL - ENV-SupplyChainEnv-v0-Divergent.ipynb
+/examples/Step4e--Multi-Echelon--RL - ENV-SupplyChainEnv-v0-Linear.ipynb
+/examples/DODistributionDemo.ipynb
+/examples/MultiEchelonNetworkMangament.ipynb
+/examples/NetworkMangament.ipynb
+/examples/MultiEchelonInventoryManagement.ipynb
+/images/inventorymanagement.jpg
+/images/LostSalesModel.png
+/images/MultiEchelonModel.jpg
+/images/do_dist.png
+/images/BacklogModel.png
+/SupplyChain_gym/envs/SupplyChainEnv.py
+/SupplyChain_gym/envs/NetworkManagementFile.py
+/SupplyChain_gym/envs/InventoryManagementFile.py
+/SupplyChain_gym/envs/InventoryEnvFile.py
+/SupplyChain_gym/envs/DODistributionEnvFile.py
+/examples/.ipynb_checkpoints/MultiEchelonInventoryManagement-checkpoint.ipynb
